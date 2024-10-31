@@ -1,0 +1,11 @@
+.texto-grande {
+    font-size: 24px;  /* Ajusta el tamaño que prefieras */
+    font-weight: bold; /* Opcional: hace el texto más grueso */
+    
+}
+.titulo{
+    padding: 10px;
+    border: solid black;
+   text-align: center;
+   background-color: aqua;
+}
